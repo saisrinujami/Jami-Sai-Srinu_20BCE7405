@@ -1,0 +1,116 @@
+.body{
+    display:grid;
+    grid-template-columns: 70% 30% ;
+
+    margin: auto;
+    background-image: url(background.jpg);
+    background-size: cover;
+    height: 80%;
+}
+.header{
+    display:grid;
+    grid-template-columns: 30% 70%;
+    padding-left:20px;
+    background-color:mintcream;
+}
+.logo{
+    padding-top: 50px;
+    padding-left: 500px;
+    font-size: 15px;
+}
+a{
+    padding: 20px;
+}
+.button{
+    font-size: 80px;
+    color:indigo;
+}
+.image{
+    padding-top: 20px; 
+}
+.sai{
+    font-size: 90px;
+    color:aliceblue;
+    padding-left: 200px;
+    padding-top:200px;
+    
+}
+.fa {
+    padding: 4px;
+    width: 20px;
+    
+}
+.abc{
+    font-size: 30px;
+    color: bisque;
+}
+.media{
+    font-size: 100px;
+    padding-left: 55px;
+    
+}
+.media a{
+    margin-left: 150px;
+}
+.edu{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    background-image: url('education.jpg');
+    justify-content: center;
+    background-size: cover;
+    
+}
+.btech{
+    border-radius: 20px;
+    border:5px solid grey;
+    background-color:rgb(238, 234, 236);
+    padding :50px;
+    margin-top:100px;
+    margin-left:200px;
+    margin-right: 100px;
+    margin-bottom: 500px;
+}
+.inter{
+    border-radius: 20px;
+    border:5px solid grey;
+    background-color:rgb(238, 234, 236);
+    padding :50px;
+    margin-top:400px;
+    margin-left:200px;
+    margin-right: 100px;
+    margin-bottom:150px;
+}
+.tenth{
+    border-radius: 20px;
+    border:5px solid grey;
+    background-color:rgb(238, 234, 236);
+    padding :50px;
+    margin-top:0px;
+    margin-left:200px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+
+}
+#about_body {
+    color:aliceblue;
+    font-size: 25px;
+    padding-top:100px;
+    text-align: center;
+    background-image: url(background.jpg);
+    margin: auto;
+    background-size: cover;
+    height: 80%;
+    
+    
+}
+.container{
+    border-radius: 10px;
+    border:1px solid white;
+    background-color: rgb(255, 255, 255,0.4);
+}
+.container img{
+    height:40%;
+}
+.bottom{
+    text-align: center;
+}
